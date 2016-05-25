@@ -5051,11 +5051,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    /*color: #777777;*/
-    color: #000;
-  }
-  .icon-phone {
-      color: #fff;
+    color: #777777;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -7126,9 +7122,10 @@ label,
 .checkbox label {
   font-weight: 300;
 }
+
 .home-icon {
-    float: right;
-    padding-right: 15px;
-    padding-top: 1px;
-    color: #ee7a1f;
+   float: right;
+   padding-right: 15px;
+   padding-top: 1px;
+   color: #3498db;
 }

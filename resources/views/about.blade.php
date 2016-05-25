@@ -29,8 +29,8 @@
     </div>
 
     <div class="tag-box tag-box-v2">
-        <h2>About Bradnams Bunbury</h2>
-        <p>When you look at Bradnams Bunbury, you will see more than just windows, doors, and other products. You will see a company with years of history backed by industry experience. Bradnams Bunbury proudly serves Bunbury and surrounding regions. We are a window manufacturer with a deep commitment to helping you find the right products with the least amount of frustration. Bradnams Bunbury's windows, doors, and other products are made to measure. Although our products are made to measure, our commitment to quality cannot be measured. We take pride in creating a better view for you. At Bradnam’s Bunbury, you will see the dedication to service of a highly-skilled team of local professionals. Our range of quality products together with our professional and personal service ensures we can provide you with a wide range of architectural window and door products. Contact us today!</p>
+        <h2>About Manilla Glass</h2>
+        <p>When you look at Manilla Glass, you will see more than just windows, doors, and other products. You will see a company with years of history backed by industry experience. Manilla Glass proudly serves Manilla and surrounding regions. We are a window manufacturer with a deep commitment to helping you find the right products with the least amount of frustration. Bradnams Bunbury's windows, doors, and other products are made to measure. Although our products are made to measure, our commitment to quality cannot be measured. We take pride in creating a better view for you. At Bradnam’s Bunbury, you will see the dedication to service of a highly-skilled team of local professionals. Our range of quality products together with our professional and personal service ensures we can provide you with a wide range of architectural window and door products. Contact us today!</p>
     </div>
 
     <div class="margin-bottom-20 clearfix"></div>

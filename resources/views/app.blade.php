@@ -122,11 +122,11 @@
 	                            Brochures
 	                        </a>
 	                    </li>
-						<li>
+						<!--<li>
 							<a href="/faqs/glassrules">
 	                            FAQ's
 	                        </a>
-						</li>
+						</li>-->
 	                    <li>
 	                        <a href="/about">
 	                            About

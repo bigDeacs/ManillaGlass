@@ -113,7 +113,7 @@
 			<div class="row">
 		    	<!-- Welcome Block -->
 				<div class="col-md-9 hidden-xs">
-					<div class="headline"><h4>Welcome To Bradnams Bunbury</h4></div>
+					<div class="headline"><h4>Welcome To Manilla Glass</h4></div>
 		            <div class="row">
 		                <div class="col-sm-4">
 		                    <img class="img-responsive margin-bottom-20" src="{{ asset('/img/about/extra.jpg') }}" alt="" />

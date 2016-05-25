@@ -256,9 +256,6 @@
 .service a.btn-more-blue {
 	background: #3498db!important;
 }
-.service a.btn-more-orange {
-	background: #ee7a1f!important;
-}
 .service a.btn-more-red {
 	background: #db5734!important;
 }
@@ -267,9 +264,6 @@
 }
 .service a.btn-more-blue:hover {
 	background: #2d80b8!important;
-} 
-.service a.btn-more-orange:hover {
-	background: #C76920!important;
 } 
 .service a.btn-more-red:hover {
 	background: #ba4b2d!important;
@@ -480,7 +474,7 @@ blockquote:hover {
 /*Copyright*/
 .copyright {
 	font-size: 12px;
-	padding: 11px 0 7px;
+	padding: 11px 0 25px;
 	background: #3e4753;
 	border-top: solid 1px #777;	
 }
@@ -1680,7 +1674,6 @@ ul.blog-tags a:hover i {
 
 .top {
 	/*padding-top: 8px;*/
-	background-color: #687074!important;
 }
 
 .top ul.loginbar {
@@ -2297,7 +2290,7 @@ a.read-more:hover {
 	background:#3498db;
 }
 .thumbnail-style a.btn-more:hover {
-	box-shadow:0 0 0 2px #C76920;
+	box-shadow:0 0 0 2px #2980b9;
 }
 
 /*Shots (Recent Shots)
@@ -2799,8 +2792,7 @@ ul.blog-tags a:hover {
 .header {
 	z-index:999;
 	position:relative;
-	border-bottom:solid 2px #5C6265;
-	background-color: #687074!important;
+	border-bottom:solid 2px #eee;
 }
 
 .header .navbar {
@@ -2827,7 +2819,7 @@ ul.blog-tags a:hover {
 
 /*Navbar*/
 .header .navbar-default .navbar-nav > li > a {
-	color: #fff;
+	color: #687074;
 	font-size: 13px;
 	font-weight:400;
 	padding: 9px 20px;
@@ -3028,15 +3020,15 @@ ul.blog-tags a:hover {
 .navbar-toggle,
 .navbar-default .navbar-toggle:hover, 
 .navbar-default .navbar-toggle:focus {
-	background: #f0ad4e;
+	background: #3498db;
 }
 
 .navbar-toggle:hover {
-	background: #ec971f !important;
+	background: #2980b9 !important;
 }
 
 .navbar-default .navbar-toggle {
-	border-color: #eea236;
+	border-color: #2980b9;
 }
 
 /*Serach Box*/
