@@ -46,7 +46,7 @@ class ColoursController extends Controller {
 			if($request->file('file')->isValid()) 
 			{
 				$upload = $request->file('file');
-				$moveUpload = $upload->move(public_path() . '/uploads', $filename = time() . '-' . $upload->getClientOriginalName());
+				$moveUpload = $upload->move(storage_path() . '/uploads', $filename = time() . '-' . $upload->getClientOriginalName());
 				$colour->file = $filename;
 			} else {
 				return redirect()->back()->withInput();
@@ -89,9 +89,9 @@ class ColoursController extends Controller {
 			if($request->file('file')->isValid()) 
 			{
 				$upload = $request->file('file');
-				$moveUpload = $upload->move(public_path() . '/uploads', $filename = time() . '-' . $upload->getClientOriginalName());
+				$moveUpload = $upload->move(storage_path() . '/uploads', $filename = time() . '-' . $upload->getClientOriginalName());
 				$colour->update(['file' => $filename]);
-				File::delete(public_path() . '/uploads/' . $oldImage);
+				File::delete(storage_path() . '/uploads/' . $oldImage);
 			} else {
 				return redirect()->back()->withInput();
 			}
