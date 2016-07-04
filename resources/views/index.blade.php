@@ -129,10 +129,10 @@
 		                </div>
 		            </div>
 
-		            <blockquote class="hero-unify">
+		            <!--<blockquote class="hero-unify">
 		                <p>-Small Blurb-</p>
 		                <small>Managing Director</small>
-		            </blockquote>
+		            </blockquote>-->
 		        </div><!--/col-md-8-->        
 
 		        <!-- Latest Shots -->
