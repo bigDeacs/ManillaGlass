@@ -54,11 +54,11 @@
                                     <img alt="" src="{{ asset('/img/about/quote.jpg') }}" class="img-responsive">
                                 </div>
                                 <div class="col-md-8">
-                                    Bradnams reps are courteous, knowledgeable and they value your time. 
+                                    Manilla Glass reps are courteous, knowledgeable and they value your time. 
 									Once our rep knows exactly what you need for your project, they
 									will write up a full quote then and there. 
 									<br /><br />Get the information you need to make an informed decision about windows and doors for your 
-									Bunbruy home or office. Contact us today!
+									Manilla home or office. Contact us today!
                                 </div>
                             </div>
                         </div>
@@ -78,7 +78,7 @@
                             <div class="row">
                                 <div class="col-md-8">
                                     Don't want to wait? We don't want you to either. We want our customers to be excited about every 
-									aspect of doing business with Bradnams Bunbury. That's why we run a tight and efficient schedule. 
+									aspect of doing business with Manilla Glass. That's why we run a tight and efficient schedule. 
 									<br /><br />Bunbury homes and businesses deserve fast and efficient service. We beat the competition and 
 									provide excellent service and value quickly.
                                 </div>
@@ -107,7 +107,7 @@
 								<div class="col-md-8">
 									Many window and door companies operate essentially as middlemen, buying from the manufacturer, 
 									marking-up and warehousing on a shelf until bringing the window to a customer's home or office. 
-									<br /><br />At Bradnams Bunbury, we are the manufacturer, making both home and office windows right here in our facility. 
+									<br /><br />At Manilla Glass, we are the manufacturer, making both home and office windows right here in our facility. 
 									This allows us complete quality control, and gives us the ability to make sure the glass delivered and 
 									installed at your home or business meets the highest standard.
 								</div>
