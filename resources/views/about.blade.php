@@ -30,7 +30,7 @@
 
     <div class="tag-box tag-box-v2">
         <h2>About Manilla Glass</h2>
-        <p>When you look at Manilla Glass, you will see more than just windows, doors, and other products. You will see a company with years of history backed by industry experience. Manilla Glass proudly serves Manilla and surrounding regions. We are a window manufacturer with a deep commitment to helping you find the right products with the least amount of frustration. Bradnams Bunbury's windows, doors, and other products are made to measure. Although our products are made to measure, our commitment to quality cannot be measured. We take pride in creating a better view for you. At Bradnam’s Bunbury, you will see the dedication to service of a highly-skilled team of local professionals. Our range of quality products together with our professional and personal service ensures we can provide you with a wide range of architectural window and door products. Contact us today!</p>
+        <p>When you look at Manilla Glass, you will see more than just windows, doors, and other products. You will see a company with years of history backed by industry experience. Manilla Glass proudly serves Manilla and surrounding regions. We are a window manufacturer with a deep commitment to helping you find the right products with the least amount of frustration. Manilla's windows, doors, and other products are made to measure. Although our products are made to measure, our commitment to quality cannot be measured. We take pride in creating a better view for you. At Manilla Glass, you will see the dedication to service of a highly-skilled team of local professionals. Our range of quality products together with our professional and personal service ensures we can provide you with a wide range of architectural window and door products. Contact us today!</p>
     </div>
 
     <div class="margin-bottom-20 clearfix"></div>
@@ -79,7 +79,7 @@
                                 <div class="col-md-8">
                                     Don't want to wait? We don't want you to either. We want our customers to be excited about every 
 									aspect of doing business with Manilla Glass. That's why we run a tight and efficient schedule. 
-									<br /><br />Bunbury homes and businesses deserve fast and efficient service. We beat the competition and 
+									<br /><br />Manilla homes and businesses deserve fast and efficient service. We beat the competition and 
 									provide excellent service and value quickly.
                                 </div>
                                 <div class="col-md-4">
@@ -131,7 +131,7 @@
                                     Honest, fast and accurate quotes...Dedication to the lowest lead times...Highest quality standards. 
 									Though we are always looking for ways to show more dedication to our customers, 
 									we have accomplished a trifecta of loyalty, service and standards. 
-									<br /><br />Think of us as the window and door company that wants Bunbury to shine through your home or office.
+									<br /><br />Think of us as the window and door company that wants Manilla to shine through your home or office.
                                 </div>
                                 <div class="col-md-4">
                                     <img alt="" src="{{ asset('/img/about/extra.jpg') }}" class="img-responsive">
