@@ -71,7 +71,7 @@
 				            	<div class="thumbnail-img">
 				                    <div class="overflow-hidden">
 				                        <a href="/{!! $product->type->url !!}/{!! $product->url !!}">
-				                        	<img class="img-responsive" src="{{ asset('/uploads/$product->image') }}" alt="{!! $product->name !!}" />
+				                        	<img class="img-responsive" src="{{ asset('/uploads/'.$product->logo) }}" alt="{!! $product->name !!}" />
 				                        </a>
 				                    </div>
 				                    <a class="btn-more hover-effect hidden-xs" href="/{!! $product->type->url !!}/{!! $product->url !!}">read more +</a>
