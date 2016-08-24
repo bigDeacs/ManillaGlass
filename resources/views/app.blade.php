@@ -98,7 +98,7 @@
 	                    <span class="icon-bar"></span>
 	                </button>
 	                <a class="navbar-brand" href="/">
-	                    <img id="logo-header" src="{{ asset('/uploads/'.$brand->logo) }}" width="200" alt="Logo">
+	                    <img id="logo-header" src="/uploads/{!! $brand->logo !!}" width="200" alt="Logo">
 	                </a>
 	            </div>
 
@@ -198,7 +198,7 @@
 				</div>
 				<div class="col-md-4">
 					<a href="index.php">
-	                    <img id="logo-footer" src="{{ asset('/uploads/'.$brand->logo) }}" width="200" class="pull-right" alt="Logo">
+	                    <img id="logo-footer" src="/uploads/{!! $brand->logo !!}" width="200" class="pull-right" alt="Logo">
 	                </a>
 				</div>
 			</div><!--/row-->
