@@ -43,18 +43,18 @@ class BrochuresController extends Controller {
 		$brochure = Brochure::create($request->all());
 		if($request->hasFile('image'))
 		{
-			if($request->file('image')->isValid()) 
+			if($request->file('image')->isValid())
 			{
 				$image = $request->file('image');
 				$moveImage = $image->move(storage_path() . '/uploads', $filename = time() . '-' . $image->getClientOriginalName());
 				$brochure->thumb = $filename;
 			} else {
 				return redirect()->back()->withInput();
-			}	
-		} 
+			}
+		}
 		if($request->hasFile('file'))
 		{
-			if($request->file('file')->isValid()) 
+			if($request->file('file')->isValid())
 			{
 				$upload = $request->file('file');
 				$moveUpload = $upload->move(storage_path() . '/uploads', $filename = time() . '-' . $upload->getClientOriginalName());
@@ -62,7 +62,7 @@ class BrochuresController extends Controller {
 			} else {
 				return redirect()->back()->withInput();
 			}
-		} 
+		}
 		$brochure->save();
 		return redirect('home/brochures');
 	}
@@ -75,7 +75,7 @@ class BrochuresController extends Controller {
 	 */
 	public function show($id)
 	{
-		return redirect('home/brochures');	
+		return redirect('home/brochures');
 	}
 
 	/**
@@ -98,7 +98,7 @@ class BrochuresController extends Controller {
 		$brochure->update($request->all());
 		if($request->hasFile('image'))
 		{
-			if($request->file('image')->isValid()) 
+			if($request->file('image')->isValid())
 			{
 				$image = $request->file('image');
 				$moveImage = $image->move(storage_path() . '/uploads', $filename = time() . '-' . $image->getClientOriginalName());
@@ -110,7 +110,7 @@ class BrochuresController extends Controller {
 		}
 		if($request->hasFile('file'))
 		{
-			if($request->file('file')->isValid()) 
+			if($request->file('file')->isValid())
 			{
 				$upload = $request->file('file');
 				$moveUpload = $upload->move(storage_path() . '/uploads', $filename = time() . '-' . $upload->getClientOriginalName());
@@ -120,7 +120,7 @@ class BrochuresController extends Controller {
 				return redirect()->back()->withInput();
 			}
 		}
-		$brochure->save();		
+		$brochure->save();
 		return redirect('home/brochures');
 	}
 
